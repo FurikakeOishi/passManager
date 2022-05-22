@@ -1,0 +1,19 @@
+{
+  "name": "passmanager",
+  "version": "1.0.0",
+  "description": "The password manager you ache for.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FurikakeOishi/passManager.git"
+  },
+  "author": "Yan Zeltser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FurikakeOishi/passManager/issues"
+  },
+  "homepage": "https://github.com/FurikakeOishi/passManager#readme"
+}
